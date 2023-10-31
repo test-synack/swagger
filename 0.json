@@ -1,8 +1,8 @@
 {
-    "url": "https://0.yaml",
+    "url": "https://raw.githubusercontent.com/test-synack/swagger/main/0.yaml",
     "urls": [
         {
-            "url": "https://0.yaml",
+            "url": "https://raw.githubusercontent.com/test-synack/swagger/main/0.yaml",
             "name": "Foo"
         }
     ]
